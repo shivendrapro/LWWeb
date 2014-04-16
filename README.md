@@ -1,10 +1,5 @@
-LWWeb
-=====
-
-Light Weight Web
-
 ___________________________________
-Project WebServer In Perl LWWeb 
+New Project WebServer In Perl LWWeb 
 ___________________________________
 
 SCM : GIT HUB
@@ -13,15 +8,16 @@ IDE : ACTIVE PERL 5.16 [ Download : http://www.activestate.com/activeperl/downlo
 Machine : lwweb / lwweb
 Server :delvmplmMEDTR03.sapient.com 
 Git Repo details 
-Repo URL: https://github.com/shivendra007/LWWeb.git
+Repo URL: https://github.com/shivendrapro/LWWeb
 
 git config --global user.name "Shivendra"
 git config --global user.email "shivendra.prof@gmail.com"
 git config --global http.sslVerify false
-git clone https://github.com/shivendra007/LWWeb.git
+git clone https://github.com/shivendrapro/LWWeb.git
+https://github.com/shivendrapro
 
-Username: shivendra.prof@gmail.com
-Password: project@123
+Username: shivendrapro
+Password: Qwe123#$%
 
 __________________________________________________________________________________________
 
